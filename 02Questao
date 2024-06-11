@@ -1,6 +1,6 @@
 varint = 7
 varfloat = 3.1415
-varstr = "Marcos"
+varstr = "Lucas Emanuel"
 varbool = True
 print(f"A variavel {varint} é do tipo {type(varint)}")
 print(f"A variavel {varfloat} é do tipo {type(varfloat)}")
